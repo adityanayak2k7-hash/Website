@@ -1,0 +1,1 @@
+{\n  "name": "server",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongodb": "^3.6.6",\n    "jsonwebtoken": "^8.5.1",\n    "nodemailer": "^6.4.11",\n    "passport": "^0.4.1",\n    "passport-jwt": "^4.0.0",\n    "passport-google-oauth20": "^2.0.0"\n  }\n}
